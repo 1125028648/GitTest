@@ -3,3 +3,4 @@ push
 hello
 commit amend
 111
+222
