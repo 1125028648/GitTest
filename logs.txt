@@ -1,3 +1,4 @@
 commit
 push
 git clone
+git push
