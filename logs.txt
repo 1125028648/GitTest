@@ -2,4 +2,8 @@ commit
 push
 git clone
 git push
+<<<<<<< HEAD
 git stash
+=======
+git add
+>>>>>>> 86c95539a419354421ffa44aae582a57b3051346
